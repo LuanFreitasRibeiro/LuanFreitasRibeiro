@@ -10,10 +10,10 @@
 
 **Github Stats**
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LuanFreitasRibeiro&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LuanFreitasRibeiro&show_icons=true&theme=radical)
 
 **Most Used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFreitasRibeiro&layout=compact)](https://github.com/LuanFreitasRibeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFreitasRibeiro&layout=compact&theme=radical)](https://github.com/LuanFreitasRibeiro/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=LuanFreitasRibeiro&label=PROFILE+VIEWS)
