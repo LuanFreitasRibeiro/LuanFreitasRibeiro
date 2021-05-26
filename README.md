@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFreitasRibeiro&layout=compact&theme=radical)](https://github.com/LuanFreitasRibeiro/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=LuanFreitasRibeiro&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=LuanFreitasRibeiro&label=VISITORS)
