@@ -1,6 +1,6 @@
 # **Luan Freitas - Software Developer**
 
-- 🏦 I’m currently working at **Pagar.me/Mundipagg | Stone.co**.
+- 🏦 I’m currently working at **Trademaster | Maitha Tech**.
 - 💻 I use daily: `.NetCore`, `C#`, `SQLServer`, `NodeJs`, `MongoDB`.
 - 💻 I'm starting to study: `GoLang`
 - 🔎 You can find me on:
