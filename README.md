@@ -2,9 +2,7 @@
 
 - 🏦 I’m currently working at.
 - 💻 I use daily: `.NetCore`, `C#`, `NodeJs`, `Typescript`, `SQLServer`, `PostgresSQL`, `MongoDB`.
-- 🔎 You can find me on:
-
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luan-freitas-a04063113/)
+- 🔎 How to reach me: luannr16@gmail.com
  
 **Github Stats**
 
