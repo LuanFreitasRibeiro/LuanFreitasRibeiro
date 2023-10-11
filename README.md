@@ -1,7 +1,7 @@
 # **Luan Freitas - Software Developer**
 
 - 🏦 I’m currently working at.
-- 💻 I use daily: `.NetCore`, `C#`, `NodeJs`, `Typescript`, `SQLServer`, `PostgresSQL`, `MongoDB`.
+- 💻 I use daily: `NodeJs`, `Typescript`, `Jest`,`.NetCore`, `C#`, `SQLServer`, `PostgreSQL`, `MongoDB`.
 - 🔎 How to reach me: luannr16@gmail.com
  
 **Github Stats**
