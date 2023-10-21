@@ -1,6 +1,6 @@
 # **Luan Freitas - Software Developer**
 
-- 🏦 I’m currently working at.
+- 🏦 I’m currently working at Maitha Tech/Serasa.
 - 💻 I use daily: `NodeJs`, `Typescript`, `Jest`,`.NetCore`, `C#`, `SQLServer`, `PostgreSQL`, `MongoDB`.
 - 🔎 How to reach me: luannr16@gmail.com
  
